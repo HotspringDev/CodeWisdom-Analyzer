@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hotspring/repos/CodeQualityAnalyzer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
