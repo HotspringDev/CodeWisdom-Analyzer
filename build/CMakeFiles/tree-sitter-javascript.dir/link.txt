@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtree-sitter-javascript.a "CMakeFiles/tree-sitter-javascript.dir/vendor/tree-sitter-javascript/src/parser.c.o" "CMakeFiles/tree-sitter-javascript.dir/vendor/tree-sitter-javascript/src/scanner.c.o"
-/usr/bin/ranlib libtree-sitter-javascript.a

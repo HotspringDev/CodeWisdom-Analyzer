@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtree-sitter.a "CMakeFiles/tree-sitter.dir/vendor/tree-sitter/lib/src/lib.c.o"
-/usr/bin/ranlib libtree-sitter.a
